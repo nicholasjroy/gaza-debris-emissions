@@ -1,7 +1,5 @@
 ## Processing Debris From Destroyed and Damaged Buildings in Gaza
 
-**Update (Oct 2026):** Interactive [Google Earth Engine App](https://gestalt.users.earthengine.app/view/gaza-building-debris-map) using the [UNOSAT Jun 2026 Damage Assessment](https://unosat.docs.cern.ch/PS/CE20231007PSE/OCHA/).
-
 This repository includes QGIS project files, spatial datasets, and images used in [Processing Debris From Destroyed and Damaged Buildings in Gaza: Carbon Emissions, Time Frames, and Implications for Rebuilding](https://www.researchgate.net/publication/383876523_Estimating_Carbon_Emissions_from_Processing_Building_Debris_in_Gaza) 
  (Abdelnour & Roy).
 
